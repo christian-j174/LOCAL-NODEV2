@@ -1,0 +1,9 @@
+connect wallet => jsx welcome, use this for the neftify challenge 
+
+
+
+basic commands to run this project:
+I use vite for the frontend 
+
+for running the frontend of this project use: /> npm run dev 
+
