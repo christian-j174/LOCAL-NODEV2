@@ -41,7 +41,7 @@ const Welcome = () => {
           Your Passport <br /> to the world of Crypto
           </h1>
           <p className="text-left mt-5 text-white font-light md:w-9/12 w-11/12 text-base">
-          Implement Local-Node transaction protocol, and start the next revolution of Payments Systems
+          Implement MyBilAccess transaction protocol, and speeds up the payment granting process
           </p>
           {!currentAccount && (
             <button
